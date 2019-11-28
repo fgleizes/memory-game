@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "player": "Jane",
+    "guesses": 18,
+    "date": "10\/10\/2017"
+  }, 
+  {
+    "id": 2,
+    "player": "Kevin",
+    "guesses": 23,
+    "date": "11\/10\/2017"
+  }, 
+  {
+    "id": 3,
+    "player": "Louisa",
+    "guesses": 31,
+    "date": "06\/10\/2017"
+  }, 
+  {
+    "id": 4,
+    "player": "Marc",
+    "guesses": 48,
+    "date": "14\/10\/2017"
+  },
+  {
+    "id": 5,
+    "player": "Flo",
+    "guesses": 49,
+    "date": "14\/11\/2019"
+  }
+]
